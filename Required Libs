@@ -1,1 +1,5 @@
-
+The Requirements.txt contains some extra libraries/packages. If you don't want to install all the packages you can simply install the following ones and you will not face any problem.
+Required Libs:
+tensorflow==2.19.0
+matplotlib==3.10.3
+jupyter==1.1.1       #Only if you wish to run your code in a jupyter notebook using VS Code, you need to install this one
