@@ -45,9 +45,12 @@ Explore deep learning model development using TensorFlow
 MNIST dataset (loaded directly via tensorflow.keras.datasets.mnist)
 
 🚀 Getting Started
+
 Clone the repo
 
 Install dependencies:
-tensorflow
-matplotlib
+tensorflow,
+matplotlib and
 numpy
+
+Run the jupyter notebook
