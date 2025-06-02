@@ -1,4 +1,4 @@
-The Requirements.txt contains some extra libraries/packages. 
+The requirements.txt contains some extra libraries/packages. 
 If you don't want to install all the packages you can simply install the following ones and you will not face any problem.
 
 Required Libs:
